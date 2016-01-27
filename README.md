@@ -43,7 +43,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-#Challenges encountered while building the app*
+#Challenges encountered while building the app
 
 The biggest challenge for me was time. I have lots of homeworks due on the same week as the app.
 
