@@ -1,9 +1,9 @@
-# CodePath_Flicks
+# Flicks
 An iOS application that lets users view the top movies in theatres.
 
-# Project 1 - *CodePath_Flicks*
+# Project 1 - *Flicks app*
 
-**CodePath_Flicks** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+**Flicks app** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 Time spent: **8** hours spent in total
 
