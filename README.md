@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. I would like to discuss with my peers on best UI customization options for the Flicks app
+1. I would like to discuss with my peers more on how to use APIs
 2. I would like to discuss how to use Git Desktop to submit my Xcode project.
 
 ## Video Walkthrough 
@@ -43,7 +43,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+#Challenges encountered while building the app*
+
+The biggest challenge for me was time. I have lots of homeworks due on the same week as the app.
+
+
 
 ## License
 
