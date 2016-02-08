@@ -106,7 +106,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/aDgFtdP.gif' title='Walkthrough' width='600' height='400' alt='Project2 Walkthrough' />
+<img src='http://i.imgur.com/qHWAlm3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -119,7 +119,7 @@ The biggest challenge for me is still time. But I'm trying my best to get everyt
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Lilian Ngweta]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
