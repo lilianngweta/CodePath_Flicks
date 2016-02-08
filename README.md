@@ -51,7 +51,7 @@ The biggest challenge for me was time. I have lots of homeworks due on the same 
 
 ## License
 
-    Copyright [2015] [Lilian Ngweta]
+    Copyright [2016] [Lilian Ngweta]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -106,7 +106,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/V48MIGw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/V48MIGw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
