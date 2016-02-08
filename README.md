@@ -100,7 +100,7 @@ The following **additional** features are implemented:
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
 1. I would like to discuss about different APIs and how they can be implemented
-2. I would like to discuss how to implement the Seach bar
+2. I would like to discuss with my peers how to implement the Seach bar
 
 ## Video Walkthrough 
 
