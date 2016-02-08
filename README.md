@@ -106,7 +106,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/aDgFtdP.gif' title='Walkthrough' width='921' height='532' alt='Project2 Walkthrough' />
+<img src='http://i.imgur.com/aDgFtdP.gif' title='Walkthrough' width='600' height='400' alt='Project2 Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
